@@ -115,11 +115,19 @@ let g:indentLine_char = '│'
 set tags=./tags,tags;$HOME
 "source ~/cscope_maps.vim
 
+""show coommand
+set showcmd
+
 "setup path for recursive serach
 set path+=**
 
 "display all matching files when tab complete"
 set wildmenu
 
-"Interes vim documentation"
+"---------Interes vim documentation"
 "ins-completion"
+
+"-----Snippets
+nnoremap ;rc irafaelbarrientosarroyave@gmail.com<ESC>
+
+

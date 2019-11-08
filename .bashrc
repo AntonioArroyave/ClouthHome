@@ -36,5 +36,7 @@ if [ -f '/root/SimbioticLoop/google-cloud-sdk/path.bash.inc' ]; then . '/root/Si
 if [ -f '/root/SimbioticLoop/google-cloud-sdk/completion.bash.inc' ]; then . '/root/SimbioticLoop/google-cloud-sdk/completion.bash.inc'; fi
 
 #Config custom varibles
+export rcorreo=rafaelbarrientosarroyave@gmail.com
+export ccorre=rafael.barrientos@ceiba.com
 export Clouth_Home=/home/ClouthHome
 
