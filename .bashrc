@@ -40,3 +40,8 @@ export rcorreo=rafaelbarrientosarroyave@gmail.com
 export ccorre=rafael.barrientos@ceiba.com
 export Clouth_Home=/home/ClouthHome
 
+#Alias for change java home
+export JAVA17_HOME=/usr/lib/jvm/java-1.7.79
+export JAVA18_HOME=/usr/lib/jvm/java-1.8.0-openjdk-i386
+alias java17='export JAVA_HOME=$JAVA17_HOME'
+alias java18='export JAVA_HOME=$JAVA18_HOME'
