@@ -34,3 +34,7 @@ if [ -f '/root/SimbioticLoop/google-cloud-sdk/path.bash.inc' ]; then . '/root/Si
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/root/SimbioticLoop/google-cloud-sdk/completion.bash.inc' ]; then . '/root/SimbioticLoop/google-cloud-sdk/completion.bash.inc'; fi
+
+#Config custom varibles
+export Clouth_Home=/home/ClouthHome
+
