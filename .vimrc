@@ -120,3 +120,6 @@ set path+=**
 
 "display all matching files when tab complete"
 set wildmenu
+
+"Interes vim documentation"
+"ins-completion"
